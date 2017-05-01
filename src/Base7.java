@@ -13,7 +13,7 @@ public class Base7 {
             num/=7;
         }
         if (flag)
-            sb.insert(0,"-")
+            sb.insert(0,"-");
          return sb.toString();
     }
 
